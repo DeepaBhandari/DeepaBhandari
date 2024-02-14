@@ -44,13 +44,20 @@ Hello there! I'm [Deepa Bhandari](https://deepab.com.np/), a passionate Web App 
 - LinkedIn: https://www.linkedin.com/in/deepa-bhandari-2b57041b3/
 - Website: https://deepab.com.np/
 
+---
+
 ### 😄 Pronouns:
 - She/Her
+
+---
 
 ### ⚡ Fun fact:
 - I like to read and watch documentries on famous people around the globe.
 
+---
+
 ### 📚 Favorite Quote:
 - "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less."
-       - By Marie Curie
+
+  By Marie Curie
 
