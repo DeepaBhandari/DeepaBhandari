@@ -1,7 +1,8 @@
+
 <!-- About Me -->
 ## 👋 About Me
 
-Hello there! I'm Deepa Bhandari[https://deepab.com.np/], a passionate Web App Developer from Nepal. I love to 💻 code, sing and 💃 dance in my free time. 
+Hello there! I'm Deepa Bhandari[https://deepab.com.np/], a passionate Web App Developer from Nepal. I love to learn and sharpen my coding skills through various coding challenges and tools available in frontend mentor, codechef and leetcode and  also read tech articles in medium and dev.to in my free time. 
 
 ### 🔭 I’m currently working on:
 - Angular Project
