@@ -25,6 +25,7 @@ Hello there! I'm [Deepa Bhandari](https://deepab.com.np/), a passionate Web App 
 ### 🔭 I’m currently working on:
 - Angular Project
 - Next Project
+- [Chat app](https://chatapp-deepabhandaris-projects.vercel.app/) - Project based on socket.io, node/express
 
 ---
 
