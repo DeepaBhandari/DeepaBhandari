@@ -33,6 +33,8 @@ Hello there! I'm [Deepa Bhandari](https://deepab.com.np/), a passionate Web App 
 ### 🌱 I’m currently learning:
 - Angular TS
 - Next
+- Mongo Atlas
+- Express / Node
   
 ---
 
