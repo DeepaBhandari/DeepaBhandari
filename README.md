@@ -24,16 +24,15 @@ Hello there! I'm [Deepa Bhandari](https://deepab.com.np/), Web App Developer fro
 ---
 
 ### 🔭 I’m currently working on:
-- Angular Project
-- Next Project
-- [Chat app](https://chatapp-deepabhandaris-projects.vercel.app/) - Project based on socket.io, node/express
+- [Ticket App](https://ticket-app-coral.vercel.app/) - SImple Ticket CRUD Project using Next JS and MongoDB Atlas.
+- [Chat App](https://chatapp-deepabhandaris-projects.vercel.app/) - Basic Chat App Project based on socket.io and node/express.
 
 ---
 
 ### 🌱 I’m currently learning:
 - Angular TS
 - Next
-- Mongo Atlas
+- Mongo
 - Express / Node
   
 ---
