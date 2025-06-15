@@ -24,7 +24,7 @@ Hello there! I'm [Deepa Bhandari](https://deepab.com.np/), Web App Developer fro
 ---
 
 ### 🔭 I’m currently working on:
-- [Ticket App](https://ticket-app-coral.vercel.app/) - SImple Ticket CRUD Project using Next JS and MongoDB Atlas.
+- [Ticket App](https://ticket-app-coral.vercel.app/) - Simple Ticket CRUD Project using Next JS and MongoDB Atlas.
 - [Chat App](https://chatapp-mz4s.onrender.com/) - Basic Chat App Project based on socket.io and node/express.
 
 ---
