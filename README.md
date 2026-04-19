@@ -21,7 +21,7 @@ Git · Vite · Figma · AWS
 ### and have worked with
 
 Angular · Redux/RTK · Socket.io · Node/Express
-MongoDB · WordPress · Microsoft Dynamics 365 
+MongoDB · PHP · Laravel · WordPress · Microsoft Dynamics 365  
 
 ---
 
