@@ -30,8 +30,6 @@ Hello there! I'm [Deepa Bhandari](https://deepab.com.np/), Web App Developer fro
 ---
 
 ### 🌱 I’m currently learning:
-- Angular TS
-- Next
 - Mongo
 - Express / Node
   
