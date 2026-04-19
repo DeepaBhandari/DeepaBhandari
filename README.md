@@ -59,16 +59,11 @@ MongoDB · PHP · Laravel · WordPress · Microsoft Dynamics 365
 - React / Next.js open source projects — especially anything around SaaS tooling, developer UX, or data-heavy dashboards.
 
 ---  
-
-### 📫 How to reach me:
+### find me
 - Email: me@deepab.com.np  / me.dpabhandari@gmail.com
 - LinkedIn: https://www.linkedin.com/in/deepa-bhandari-2b57041b3/
 - Website: https://deepab.com.np/
 
----
-
-### 😄 Pronouns:
-- She/Her
 
 ---
 
