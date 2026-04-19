@@ -1,8 +1,27 @@
 
 <!-- About Me -->
-## 👋 About Me :woman_technologist: 
+## Hi, I'm Deepa
 
-Hello there! I'm [Deepa Bhandari](https://deepab.com.np/), Web App Developer from Nepal. I love to learn and sharpen my coding skills through various coding challenges and tools available in frontend mentor, codechef and leetcode and  also read tech articles in medium and dev.to in my free time. 
+I build web products — primarily in React and Next.js,
+but I've shipped things that touch Node, MongoDB, Stripe,
+AWS, CRM integrations, and real-time sockets too.
+
+I like the full picture: clean component architecture,
+APIs that don't fight you, and interfaces that actually
+make sense to use.
+
+---
+
+### what I work with day-to-day
+
+TypeScript · React · Next.js · Tailwind · shadcn/ui
+TanStack Query · Zustand · Zod · REST APIs · Stripe
+Git · Vite · Figma · AWS
+
+### and have worked with
+
+Angular · Redux/RTK · Socket.io · Node/Express
+MongoDB · WordPress · Microsoft Dynamics 365 
 
 ---
 
@@ -23,9 +42,10 @@ Hello there! I'm [Deepa Bhandari](https://deepab.com.np/), Web App Developer fro
 
 ---
 
-### 🔭 I’m currently working on:
-- [Ticket App](https://ticket-app-coral.vercel.app/) - Simple Ticket CRUD Project using Next JS and MongoDB Atlas.
-- [Chat App](https://chatapp-mz4s.onrender.com/) - Basic Chat App Project based on socket.io and node/express.
+### a couple of things I've built
+- [**Ticket App**](https://ticket-app-coral.vercel.app/) — Full-stack CRUD ticketing app with Next.js and MongoDB Atlas
+- [**Chat App**](https://chatapp-deepabhandaris-projects.vercel.app/) — Real-time bidirectional messaging using Socket.io and Node/Express
+
 
 ---
 
@@ -36,7 +56,7 @@ Hello there! I'm [Deepa Bhandari](https://deepab.com.np/), Web App Developer fro
 ---
 
 ### 👯 I’m looking to collaborate on:
-- Open source projects related to React, Angular and Next
+- React / Next.js open source projects — especially anything around SaaS tooling, developer UX, or data-heavy dashboards.
 
 ---  
 
