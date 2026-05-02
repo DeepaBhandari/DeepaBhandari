@@ -14,13 +14,13 @@ make sense to use.
 
 ### what I work with day-to-day
 
-TypeScript · React · Next.js · Tailwind · shadcn/ui
+TypeScript · React · Next.js · Tailwind · shadcn/ui · 
 TanStack Query · Zustand · Zod · REST APIs · Stripe
 Git · Vite · Figma · AWS
 
 ### and have worked with
 
-Angular · Redux/RTK · Socket.io · Node/Express
+Angular · Redux/RTK · Socket.io · Node/Express · 
 MongoDB · PHP · Laravel · WordPress · Microsoft Dynamics 365  
 
 ---
