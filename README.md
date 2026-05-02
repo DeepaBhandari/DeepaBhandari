@@ -15,7 +15,7 @@ make sense to use.
 ### what I work with day-to-day
 
 TypeScript · React · Next.js · Tailwind · shadcn/ui · 
-TanStack Query · Zustand · Zod · REST APIs · Stripe
+TanStack Query · Zustand · Zod · REST APIs · Stripe · 
 Git · Vite · Figma · AWS
 
 ### and have worked with
