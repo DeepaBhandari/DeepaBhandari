@@ -2,7 +2,7 @@
 <!-- About Me -->
 ## Hi, I'm Deepa
 
-I build web products — primarily in React and Next.js,
+I build web products, primarily in React and Next.js,
 but I've shipped things that touch Node, MongoDB, Stripe,
 AWS, CRM integrations, and real-time sockets too.
 
@@ -56,7 +56,7 @@ MongoDB · PHP · Laravel · WordPress · Microsoft Dynamics 365
 ---
 
 ### 👯 I’m looking to collaborate on:
-- React / Next.js open source projects — especially anything around SaaS tooling, developer UX, or data-heavy dashboards.
+- React / Next.js open source projects, especially anything around SaaS tooling, developer UX, or data-heavy dashboards.
 
 ---  
 ### find me
